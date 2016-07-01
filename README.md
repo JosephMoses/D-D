@@ -8,12 +8,12 @@ I am an avid fan of Dungeons and Dragons and an aspiring Dungeon Master.  Over m
 
 **NOTE: Both .py files must be saved into the same folder for this application to work correctly.**
 * Once the application is launched it will prompt the user with a series of four yes or no questions.  To respond to a question with yes, simply enter a y (non case sensitive) then press enter.  Doing anything else will be treated as a no.  **When prompted about using Homebrew (homemade) races or classes you will have to have first ran the HomebrewInstaller.py file**
--replace me with a screen shot-
+![alt tex](https://github.com/JosephMoses/D-D/blob/master/First%20Two%20Prompts.png "First and Second Promtp")
 * After answering all of the prompts, the application will display the newly generated character to the user and ask the user if they wish to save the character.  This question is answered the same was as the previous ones though a yes answer will prompt the user to supply the name of the .txt file they wish to save the character to.
--replace me with a screen shot
+![alt tex](https://github.com/JosephMoses/D-D/blob/master/FinalPrompt.png "Saving Character display")
 * When the HombrewInstaller application is launched it will ask the user to enter class if they are adding a new homebrew class or race for a new homebrew race.  The answer to this question is case specific and must be answered in all lower case letters.  Once you have entered the type of homebrew you wish to install the installer will prompt you with several more questions, each with on screen instructions about how to answer them.  If no instructions are given, simply answer with numeric characters.
--screenshot 1
--screenshot 2
+![alt text](https://github.com/JosephMoses/D-D/blob/master/HomebrewClassPrompts.png "Homebrew Class installation Prompts")
+![alt text](https://github.com/JosephMoses/D-D/blob/master/HomebrewRacePrompts.png "Homebrew Race Installation Prompts")
 
 ##Notes
 
