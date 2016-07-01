@@ -7,4 +7,4 @@ I am an avid fan of Dungeons and Dragons and an aspiring Dungeon Master.  Over m
 ##Instructions
 
 **NOTE: Both .py files must be saved into the same folder for this application to work correctly.**
--Once the application is launched it will prompt the user with a series of yes or no questions.  To respond to a question with yes, simply enter a y (non case sensitive) then press enter.  Doing anything else will be treated as a no.  **When prompted about using Homebrew (homemade) races or classes you will have to have first ran the HomebrewInstaller.py file**
+* Once the application is launched it will prompt the user with a series of yes or no questions.  To respond to a question with yes, simply enter a y (non case sensitive) then press enter.  Doing anything else will be treated as a no.  **When prompted about using Homebrew (homemade) races or classes you will have to have first ran the HomebrewInstaller.py file**
